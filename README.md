@@ -3,10 +3,10 @@
 <img src="https://media.giphy.com/media/Meh1wfYC07aOQ/giphy.gif" height="120"/>
 
 <p align="justify">
-  I'm Paweł—versatile programmer, gamer, open source passionate, <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a> etc. IT enthusiast from year 2️⃣0️⃣0️⃣8️⃣ , actively programming since the end of the 2️⃣0️⃣1️⃣7️⃣. C# dominates my GitHub account but recently made projects that use different solutions: JS, Kotlin 😺.
+  Versatile programmer, gamer, open source passionate, <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a> etc. IT enthusiast from year 2️⃣0️⃣0️⃣8️⃣ , actively programming since the end of the 2️⃣0️⃣1️⃣7️⃣. C# dominates my GitHub account but recently made projects that use different solutions: JS, Kotlin 😺.
 </p>
 
-<h2>Tech stack</h2>
+<h2>Languages and Tools</h2>
 
 ![C#](https://img.shields.io/badge/-C%23-black?logo=c%20sharp&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
