@@ -47,6 +47,16 @@ languages: JS, Kotlin, Java.
 </pre>
 
 <h3 align="center">
+  <code align="center">someOsProjects();</code>
+</h3>
+
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" alt="Wordally logo" width="350" height="140"/></a> | <a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" alt="3vry logo" width="350" height="140"/></a> | <a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" alt="docAndCom logo" width="350" height="140"/></a> | <a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" alt="sShuffler logo" width="350" height="140"/></a> | <a href="https://github.com/trolit/EzGitDoc"><img src="https://trolit.github.io/images/ezGitDoc-cover.png" alt="EzGitDoc logo" width="350" height="140"/></a> | <a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" alt="Project Zero logo" width="350" height="140"/></a> |
+<!-- For image table, it's highly recommended to have the same resolution images. 
+ To find best results(no stretches, equal cells), both axis should be adjusted manually. -->
+
+<h3 align="center">
   <code align="center">langsAndTools();</code>
 </h3>
 
