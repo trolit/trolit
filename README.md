@@ -60,27 +60,20 @@ languages: JS, Kotlin, Java.
   <code align="center">langsAndTools();</code>
 </h3>
 
-<pre>
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/-C%23-black?logo=c%20sharp&style=social" alt="C# badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" alt="JavaScript badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Android-black?logo=android&style=social" alt="Android badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=social" alt="Kotlin badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=social" alt="HTML5 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social" alt="CSS3 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social" alt="JQuery badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social" alt="Bootstrap badge"/>&nbsp; 
-
+<img align="center" src="https://img.shields.io/badge/-C%23-black?logo=c%20sharp&style=social" alt="C# badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" alt="JavaScript badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Android-black?logo=android&style=social" alt="Android badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=social" alt="Kotlin badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=social" alt="HTML5 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social" alt="CSS3 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social" alt="JQuery badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social" alt="Bootstrap badge"/> <br/>
 <!-- IDE -->
-<img align="center" src="https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=social" alt="PyCharm badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio-black?logo=visual%20studio&style=social" alt="Visual Studio badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual%20studio%20code&style=social" alt="Visual Studio Code badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij%20idea&style=social" alt="IntelliJ IDEA badge"/>
-
+<img align="center" src="https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=social" alt="PyCharm badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio-black?logo=visual%20studio&style=social" alt="Visual Studio badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual%20studio%20code&style=social" alt="Visual Studio Code badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij%20idea&style=social" alt="IntelliJ IDEA badge"/> <br/>
 <!-- DB -->
-<img align="center" src="https://img.shields.io/badge/-MSSQL-black?logo=microsoft%20sql%20server&style=social" alt="MSSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social" alt="MYSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-SQLite-black?logo=sqlite&style=social" alt="SQLite badge"/>
-
+<img align="center" src="https://img.shields.io/badge/-MSSQL-black?logo=microsoft%20sql%20server&style=social" alt="MSSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social" alt="MYSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-SQLite-black?logo=sqlite&style=social" alt="SQLite badge"/> <br/>
 <!-- Git -->
 <img align="center" src="https://img.shields.io/badge/-Git-black?logo=git&style=social" alt="GIT badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social" alt="GitHub badge"/>
 </p>
-</pre>
 
 <h3 align="center">
   <code align="center">githubExtras();</code>
 </h3>
 
-<pre>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolit&layout=compact"/>
-  </p>
-</pre>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolit&layout=compact"/>
+</p>
