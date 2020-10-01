@@ -78,5 +78,5 @@ languages: JS, Kotlin, Java.
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolit&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolit&layout=compact&theme=graywhite"/>
 </p>
