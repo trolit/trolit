@@ -52,11 +52,11 @@ languages: JS, Kotlin, Java.
 
 <p align="center">
    <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/3vry-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="150" height="140"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/ezGitDoc-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150" height="140"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="150" height="140"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="150" height="140"/></a></kbd> <br/>
+   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="150" height="140"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/EzGitDoc"><img src="https://trolit.github.io/images/ezGitDoc-cover.png" width="150" height="140"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150" height="140"/></a></kbd>
 </p>
 
 <h3 align="center">
