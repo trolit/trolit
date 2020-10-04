@@ -25,15 +25,15 @@ String welcomeOnVisit() {
 ```
 
 <h3 align="center">
-  <code align="center">about();</code>
+  <code align="center">aboutMe();</code>
 </h3>
 
 <pre>
 <p align="center">
 I'm versatile programmer that likes to take part in making interesting projects,
 author of some open source projects including WYSIWYG tool <a href="https://trolit.github.io/EzGitDoc/">EzGitDoc</a> for .md docs 
-generation, mobile app(<a href="https://github.com/trolit/document-and-compare">docAndCom</a>) to make document and comparise changes easier
-generating PDF for chosen tag, gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
+generation, mobile app(<a href="https://github.com/trolit/document-and-compare">docAndCom</a>) to document changes and comparise them within
+generated PDF under specific tag, gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
 </p>
 <p align="center">
 IT enthusiast from 2008, actively programming since the end of the 2017. C# 
@@ -46,8 +46,10 @@ languages: JS, Kotlin, Java.
 </p>
 </pre>
 
+<hr/>
+
 <h3 align="center">
-  <code align="center">someOsProjects();</code>
+  <code align="center">someOpenSourceProjects();</code>
 </h3>
 
 <p align="center">
@@ -59,19 +61,17 @@ languages: JS, Kotlin, Java.
    <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150" height="140"/></a></kbd>
 </p>
 
+<hr/>
+
 <h3 align="center">
   <code align="center">langsAndTools();</code>
 </h3>
 
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/-C%23-black?logo=c%20sharp&style=social" alt="C# badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" alt="JavaScript badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Android-black?logo=android&style=social" alt="Android badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=social" alt="Kotlin badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=social" alt="HTML5 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social" alt="CSS3 badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social" alt="JQuery badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social" alt="Bootstrap badge"/> <br/>
-<!-- IDE -->
-<img align="center" src="https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=social" alt="PyCharm badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio-black?logo=visual%20studio&style=social" alt="Visual Studio badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual%20studio%20code&style=social" alt="Visual Studio Code badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij%20idea&style=social" alt="IntelliJ IDEA badge"/> <br/>
-<!-- DB -->
-<img align="center" src="https://img.shields.io/badge/-MSSQL-black?logo=microsoft%20sql%20server&style=social" alt="MSSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social" alt="MYSQL badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-SQLite-black?logo=sqlite&style=social" alt="SQLite badge"/> <br/>
-<!-- Git -->
-<img align="center" src="https://img.shields.io/badge/-Git-black?logo=git&style=social" alt="GIT badge"/>&nbsp; <img align="center" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social" alt="GitHub badge"/>
+  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23"/></kbd>
 </p>
+
+<hr/>
 
 <h3 align="center">
   <code align="center">githubExtras();</code>
