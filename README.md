@@ -46,8 +46,6 @@ languages: JS, Kotlin, Java.
 </p>
 </pre>
 
-<hr/>
-
 <h3 align="center">
   <code align="center">someOpenSourceProjects();</code>
 </h3>
@@ -61,17 +59,13 @@ languages: JS, Kotlin, Java.
    <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150" height="140"/></a></kbd>
 </p>
 
-<hr/>
-
 <h3 align="center">
   <code align="center">langsAndTools();</code>
 </h3>
 
 <p align="center">
-  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23"/></kbd>
+  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23" alt="HTML5"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23" alt="Unity 2D/3D"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23" alt="MySQL"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23" alt="Java"/></kbd>
 </p>
-
-<hr/>
 
 <h3 align="center">
   <code align="center">githubExtras();</code>
