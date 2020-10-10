@@ -36,13 +36,9 @@ generation, mobile app(<a href="https://github.com/trolit/document-and-compare">
 generated PDF under specific tag, gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
 </p>
 <p align="center">
-IT enthusiast from 2008, actively programming since the end of the 2017. C# 
-dominates my GitHub account but recently made projects that use other 
-languages: JS, Kotlin, Java.
-</p>
-<p align="center">
 💬 Ask me on Discord, I will be glad to help
-⚡ Besides programming I'm doing some kickbox and walking
+👯 I’m looking to collaborate on EzGitDoc
+⚡ Besides programming I'm doing some kickboxing and walking
 </p>
 </pre>
 
