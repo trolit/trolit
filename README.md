@@ -29,14 +29,13 @@ String welcomeOnVisit() {
 </h3>
 
 <pre>
-<p align="center">
+<p>
 I'm versatile programmer that likes to take part in making interesting projects, 
 gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
 
 💬 Ask me on Discord, I will be glad to help
 👯 I’m looking to collaborate on EzGitDoc
-⚡ Besides programming I'm doing some kickboxing and walking
-</p>
+⚡ Besides programming I'm doing some kickboxing and walking</p>
 </pre>
 
 <h3 align="center">
@@ -44,10 +43,7 @@ gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PL
 </h3>
 
 <p align="center">
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/EzGitDoc-documentation/img/favicon.png" width="185"/></a></kbd>
-</p>
-
-<p align="center">
+     <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/EzGitDoc-documentation/img/favicon.png" width="185"/></a></kbd> <br/>
    <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150"/></a></kbd>
    <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="150"/></a></kbd>
    <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="150"/></a></kbd> <br/>
