@@ -20,7 +20,7 @@
   
 ```java
 String welcomeOnVisit() { 
-  return "Hi there!";
+  return "Hi there 👋!";
 }
 ```
 
@@ -30,12 +30,9 @@ String welcomeOnVisit() {
 
 <pre>
 <p align="center">
-I'm versatile programmer that likes to take part in making interesting projects,
-author of some open source projects including WYSIWYG tool <a href="https://trolit.github.io/EzGitDoc/">EzGitDoc</a> for .md docs 
-generation, mobile app(<a href="https://github.com/trolit/document-and-compare">docAndCom</a>) to document changes and comparise them within
-generated PDF under specific tag, gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
-</p>
-<p align="center">
+I'm versatile programmer that likes to take part in making interesting projects, 
+gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic</a>.
+
 💬 Ask me on Discord, I will be glad to help
 👯 I’m looking to collaborate on EzGitDoc
 ⚡ Besides programming I'm doing some kickboxing and walking
@@ -43,20 +40,23 @@ generated PDF under specific tag, gamer(DOS, DOS2, BF2142 vet etc.), <a href="ht
 </pre>
 
 <h3 align="center">
-  <code align="center">someOpenSourceProjects();</code>
+  <code align="center">openSource();</code>
 </h3>
 
 <p align="center">
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="150" height="140"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/EzGitDoc"><img src="https://trolit.github.io/images/ezGitDoc-cover.png" width="150" height="140"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150" height="140"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/EzGitDoc-documentation/img/favicon.png" width="185"/></a></kbd>
+</p>
+
+<p align="center">
+   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="150"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="150"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="150"/></a></kbd> <br/>
+   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="150"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="150"/></a></kbd>
 </p>
 
 <h3 align="center">
-  <code align="center">langsAndTools();</code>
+  <code align="center">someIcons();</code>
 </h3>
 
 <p align="center">
