@@ -30,7 +30,7 @@ String welcomeOnVisit() {
 
 <pre>
 I'm versatile programmer that likes to take part in making interesting projects, 
-gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">musicoholic1</a>, <a href="https://youtu.be/PelfG8hn-7c">musicoholic2</a>.
+gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://www.youtube.com/watch?v=Y1UiD2sxoWo&feature=youtu.be&list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">movies/games musicoholic</a> Hans Zimmer, Brian Tyler, James Horner.
 
 💬 Ask me on Discord, I will be glad to help
 🤔 I’m looking for help with open source projects
