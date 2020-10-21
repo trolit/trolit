@@ -19,9 +19,7 @@
 </h3>
   
 ```java
-String welcomeOnVisit() { 
-  return "Hi there 👋!";
-}
+Hi there 👋!
 ```
 
 <h3 align="center">
@@ -29,25 +27,38 @@ String welcomeOnVisit() {
 </h3>
 
 <pre>
-I'm versatile programmer that likes to take part in making interesting projects, 
-gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://www.youtube.com/watch?v=Y1UiD2sxoWo&feature=youtu.be&list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">movies/games musicoholic</a> <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Hans Zimmer</a>, <a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Brian Tyler</a>, <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">James Horner</a>.
+I'm versatile developer that likes to invent, make and cooperate on IT projects, solutions 
+who sometimes plays games like DOS, DOS2, does some kickboxing, watches movies or returns 
+to great soundtracks from awesome composers. Let me clarify some examples :)
 
-💬 Ask me on Discord, I will be glad to help
-🤔 I’m looking for help with open source projects
-⚡ Besides programming I'm doing some kickboxing and walking
+🎵 Hans Zimmer: <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Gladiator</a>, <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>, <a href="https://youtu.be/va1oiojnGrA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Inception</a>, <a href="https://youtu.be/Rp26BJVy0nI?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW2</a>; 
+🎵 Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>;
+🎵 Gustavo Santaolalla & Mac Quayle: <a href="https://youtu.be/E5qCgrRXR5E?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last Of Us Part 2</a>;
+🎵 Brian Tyler: <a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW3</a>;
+🎵 Jesper Kyd & Lorne Balfe: <a href="https://youtu.be/YSdzkOhyqAk">Assassin's Creed Revelations</a>;
+🎵 Steven Price: <a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a>;
+🎵 Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a>;
+🎵 James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>;
+
+🔭 I’m currently working on EzGitDoc improvements and it's documentation
+💬 Ask me on Discord if you need help or just to say hello ;)
+
 </pre>
 
 <h3 align="center">
   <code align="center">openSource();</code>
 </h3>
 
+```
+Some open source projects that you might find useful/helpful or interesting to contribute to 👊
+```
 <p align="center">
-   <kbd><a href="https://trolit.github.io/EzGitDoc-documentation/"><img src="https://trolit.github.io/EzGitDoc-documentation/img/favicon.png" width="125"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="125"/></a></kbd> 
-   <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="125"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="125"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="125"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="125"/></a></kbd>
+   <kbd><a href="https://trolit.github.io/EzGitDoc-documentation/"><img src="https://trolit.github.io/EzGitDoc-documentation/img/favicon.png" width="125" height="110"/></a></kbd> <br/>
+   <kbd><a href="https://github.com/trolit/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="125" height="120"/></a></kbd> 
+   <kbd><a href="https://github.com/trolit/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="125" height="120"/></a></kbd> <br/>
+   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="125" height="120"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="125" height="120"/></a></kbd>
+   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="125" height="120"/></a></kbd>
 </p>
 
 <h3 align="center">
@@ -59,9 +70,16 @@ gamer(DOS, DOS2, BF2142 vet etc.), <a href="https://www.youtube.com/watch?v=Y1Ui
 </p>
 
 <h3 align="center">
-  <code align="center">githubExtras();</code>
+  <code align="center">someGraphs();</code>
 </h3>
 
+<pre>
+Click on the image below to get some graphs, tool created by <a href="https://github.com/tipsy/profile-summary-for-github">tipsy</a>
+Icon from Flaticon created by <a href="https://www.flaticon.com/free-icon/pie-chart_3501085?term=diagram&page=1&position=28">Freepik</a>
+</pre>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolit&layout=compact&theme=graywhite"/>
+  <a href="https://profile-summary-for-github.com/user/trolit">
+    <img src="https://raw.githubusercontent.com/trolit/trolit/master/img/profile-sum-img.png" height="250"/>
+  </a>
 </p>
