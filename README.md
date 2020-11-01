@@ -83,3 +83,6 @@ Icon from Flaticon created by <a href="https://www.flaticon.com/free-icon/pie-ch
     <img src="https://raw.githubusercontent.com/trolit/trolit/master/img/profile-sum-img.png" height="250"/>
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
