@@ -85,4 +85,7 @@ Icon from Flaticon created by <a href="https://www.flaticon.com/free-icon/pie-ch
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
