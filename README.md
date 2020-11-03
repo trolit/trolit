@@ -9,49 +9,65 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
+<code>
+  <h3 align="center">console.log( 'Hello World!' ) 👋</h3>
+</code>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trolit/trolit/master/img/wolf_anim_t.gif" height="145"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trolit" height="200px"/> 
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=trolit" height="120px"/>
 </p>
-<!-- source: https://cdn2.scratch.mit.edu/get_image/gallery/5079277_200x130.png -->
 
-<h3 align="center">
-  <code align="center">welcomeOnVisit();</code>
-</h3>
-  
-```java
-Hi there 👋!
-```
+<img align="left" src="https://metrics.lecoq.io/trolit" width="400"/> 
 
-<h3 align="center">
-  <code align="center">aboutMe();</code>
-</h3>
-
-<pre>
-I'm versatile developer that likes to invent, make and cooperate on IT projects, solutions 
-who sometimes plays games like DOS, DOS2, does some kickboxing, watches movies or returns 
-to great soundtracks from awesome composers. Let me clarify some examples :)
-
-🎵 Hans Zimmer: <a href="https://youtu.be/Y1UiD2sxoWo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Gladiator</a>, <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>, <a href="https://youtu.be/va1oiojnGrA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Inception</a>, <a href="https://youtu.be/Rp26BJVy0nI?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW2</a>; 
-🎵 Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>;
-🎵 Gustavo Santaolalla & Mac Quayle: <a href="https://youtu.be/E5qCgrRXR5E?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last Of Us Part 2</a>;
-🎵 Brian Tyler: <a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW3</a>;
-🎵 Jesper Kyd & Lorne Balfe: <a href="https://youtu.be/YSdzkOhyqAk">Assassin's Creed Revelations</a>;
-🎵 Steven Price: <a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a>;
-🎵 Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a>;
-🎵 James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>;
-
-🔭 I’m currently working on EzGitDoc improvements and it's documentation
-💬 Ask me on Discord if you need help or just to say hello ;)
-
+<pre align="right">
+<div align="center">
+Developer that likes to invent, make and cooperate on IT solutions 
+who sometimes plays games, does some kickboxing, watches movies or 
+returns to great soundtracks from awesome composers. If you need
+any help or want to say <strong>hello</strong>, catch me on Discord:)
+<table>
+    <tr>
+      <td>Hans Zimmer</td>
+      <td><a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a></td>
+    </tr>
+    <tr>
+      <td>Trevor Jones</td>
+      <td><a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a></td>
+    </tr>
+    <tr>
+      <td>Gustavo Santaolalla & Mac Quayle</td>
+      <td><a href="https://youtu.be/E5qCgrRXR5E?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last Of Us Part 2</a></td>
+    </tr>
+     <tr>
+      <td>Brian Tyler</td>
+      <td><a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW3</a></td>
+    </tr>
+    <tr>
+      <td>Jesper Kyd & Lorne Balfe</td>
+      <td><a href="https://youtu.be/YSdzkOhyqAk">Assassin's Creed R</a></td>
+    </tr>
+    <tr>
+      <td>Steven Price</td>
+      <td><a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a></td>
+    </tr>
+    <tr>
+      <td>Thomas Newman</td>
+      <td><a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a></td>
+    </tr>
+    <tr>
+      <td>James Horner</td>
+      <td><a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a></td>
+    </tr>
+</table>
+</div>
 </pre>
 
-<h3 align="center">
-  <code align="center">openSource();</code>
-</h3>
+<code>
+  <h3 align="center">console.log( 'Open Source' )</h3>
+</code>
 
-```
-Some open source projects that you might find useful/helpful or interesting to contribute to 👊
-```
 <p align="center">
    <kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/"><img src="https://os-expected.github.io/EzGitDoc-documentation/img/favicon.png" width="125" height="110"/></a></kbd> <br/>
    <kbd><a href="https://github.com/OS-expected/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="125" height="120"/></a></kbd> 
@@ -61,28 +77,17 @@ Some open source projects that you might find useful/helpful or interesting to c
    <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="125" height="120"/></a></kbd>
 </p>
 
-<h3 align="center">
-  <code align="center">someIcons();</code>
-</h3>
+<code>
+  <h3 align="center">console.log( 'Used tools / skills ' )</h3>
+</code>
 
 <p align="center">
   <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23" alt="HTML5"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23" alt="Unity 2D/3D"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23" alt="MySQL"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23" alt="Java"/></kbd>
 </p>
 
-<h3 align="center">
-  <code align="center">someGraphs();</code>
-</h3>
-
-<pre>
-Click on the image below to get some graphs, tool created by <a href="https://github.com/tipsy/profile-summary-for-github">tipsy</a>
-Icon from Flaticon created by <a href="https://www.flaticon.com/free-icon/pie-chart_3501085?term=diagram&page=1&position=28">Freepik</a>
-</pre>
-
-<p align="center">
-  <a href="https://profile-summary-for-github.com/user/trolit">
-    <img src="https://raw.githubusercontent.com/trolit/trolit/master/img/profile-sum-img.png" height="250"/>
-  </a>
-</p>
+<code>
+  <h3 align="center">console.log( 'Stats' )</h3>
+</code>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -123,10 +128,15 @@ C                        1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/trolit/trolit/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
+
+<code>
+  <h3 align="center">console.log( 'References' )</h3>
+</code>
+
+<ul>
+  <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
+  <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
+  <li><a href="https://simpleicons.org/">simple icons</a></li>
+  <li><a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
+</ul>
