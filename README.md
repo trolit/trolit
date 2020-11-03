@@ -86,6 +86,8 @@ Icon from Flaticon created by <a href="https://www.flaticon.com/free-icon/pie-ch
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         2 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.09 % 
+TypeScript   54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+SCSS         44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
 ```
 <!--END_SECTION:waka-->
