@@ -14,12 +14,12 @@
 </code>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trolit" height="200px"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trolit" height="170px" alt="GitHub streak stats"/> 
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=trolit" height="120px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=trolit" height="100px" alt="GitHub trophies"/>
 </p>
 
-<img align="left" src="https://metrics.lecoq.io/trolit" width="400"/> 
+<img align="left" src="https://metrics.lecoq.io/trolit" width="400px" alt="GitHub metrics"/> 
 
 <pre align="right">
 <div align="center">
@@ -27,40 +27,15 @@ Developer that likes to invent, make and cooperate on IT solutions
 who sometimes plays games, does some kickboxing, watches movies or 
 returns to great soundtracks from awesome composers. If you need
 any help or want to say <strong>hello</strong>, catch me on Discord:)
-<table>
-    <tr>
-      <td>Hans Zimmer</td>
-      <td><a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a></td>
-    </tr>
-    <tr>
-      <td>Trevor Jones</td>
-      <td><a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a></td>
-    </tr>
-    <tr>
-      <td>Gustavo Santaolalla & Mac Quayle</td>
-      <td><a href="https://youtu.be/E5qCgrRXR5E?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last Of Us Part 2</a></td>
-    </tr>
-     <tr>
-      <td>Brian Tyler</td>
-      <td><a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW3</a></td>
-    </tr>
-    <tr>
-      <td>Jesper Kyd & Lorne Balfe</td>
-      <td><a href="https://youtu.be/YSdzkOhyqAk">Assassin's Creed R</a></td>
-    </tr>
-    <tr>
-      <td>Steven Price</td>
-      <td><a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a></td>
-    </tr>
-    <tr>
-      <td>Thomas Newman</td>
-      <td><a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a></td>
-    </tr>
-    <tr>
-      <td>James Horner</td>
-      <td><a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a></td>
-    </tr>
-</table>
+
+Hans Zimmer: <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>
+Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>
+Gustavo Santaolalla & Mac Quayle: <a href="https://youtu.be/E5qCgrRXR5E?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last Of Us Part 2</a>
+Brian Tyler: <a href="https://youtu.be/BDBXjyPfWyA?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">COD MW3</a>
+Jesper Kyd & Lorne Balfe: <a href="https://youtu.be/YSdzkOhyqAk">Assassin's Creed R</a>
+Steven Price: <a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a>
+Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a>
+James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>
 </div>
 </pre>
 
@@ -69,12 +44,7 @@ any help or want to say <strong>hello</strong>, catch me on Discord:)
 </code>
 
 <p align="center">
-   <kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/"><img src="https://os-expected.github.io/EzGitDoc-documentation/img/favicon.png" width="125" height="110"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/OS-expected/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="125" height="120"/></a></kbd> 
-   <kbd><a href="https://github.com/OS-expected/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="125" height="120"/></a></kbd> <br/>
-   <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="125" height="120"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="125" height="120"/></a></kbd>
-   <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="125" height="120"/></a></kbd>
+   <kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/"><img src="https://os-expected.github.io/EzGitDoc-documentation/img/favicon.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/OS-expected/document-and-compare"><img src="https://trolit.github.io/images/docAndCom-cover.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/OS-expected/3vry"><img src="https://trolit.github.io/images/3vry-cover.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/projectZero"><img src="https://trolit.github.io/images/projectZero-square.jpg" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://trolit.github.io/images/sShuffler-cover.PNG" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/Wordally"><img src="https://trolit.github.io/images/wordally-cover.png" width="100" height="90"/></a></kbd>
 </p>
 
 <code>
