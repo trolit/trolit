@@ -1,0 +1,24 @@
+# Visit https://github.com/lowlighter/metrics for full reference
+name: GitHub metrics as SVG image
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: trolit
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_isocalendar: yes
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_selfskip: yes
