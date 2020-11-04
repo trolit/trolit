@@ -13,15 +13,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Setup a personal token in your secrets.
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: trolit
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_followup: no
           plugin_lines: yes
           plugin_habits: yes
+          plugin_languages: yes
+          plugin_isocalendar: yes
           plugin_selfskip: yes
