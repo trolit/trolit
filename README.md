@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=trolit" height="100px" alt="GitHub trophies"/>
 </p>
 
-<img align="left" src="https://metrics.lecoq.io/trolit" width="400px" alt="GitHub metrics"/> 
+<img align="left" src="https://github.com/trolit/trolit/blob/master/github-metrics.svg" width="400px" alt="GitHub metrics"/> 
 
 <pre align="right">
 <div align="center">
