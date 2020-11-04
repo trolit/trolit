@@ -1,11 +1,10 @@
 # Visit https://github.com/lowlighter/metrics for full reference
 name: GitHub metrics as SVG image
+
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 00:00 UTC
     - cron: "0 0 * * *"
-  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
