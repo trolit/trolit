@@ -114,5 +114,5 @@ C                        1 repo              ░░░░░░░░░░░�
   <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
   <li><a href="https://simpleicons.org/">simple icons</a></li>
   <li><a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
-  <li><a href="https://metrics.lecoq.io/">lowlighter metrics</a></li>
+  <li><a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a></li>
 </ul>
