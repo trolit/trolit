@@ -14,8 +14,6 @@
 </code>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trolit" height="170px" alt="GitHub streak stats"/> 
-  <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=trolit" height="100px" alt="GitHub trophies"/>
 </p>
 
@@ -110,10 +108,12 @@ C                        1 repo              ░░░░░░░░░░░�
   <h3 align="center">console.log( 'References' )</h3>
 </code>
 
-<ul>
-  <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
-  <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
-  <li><a href="https://simpleicons.org/">simple icons</a></li>
-  <li><a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
-  <li><a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a></li>
-</ul>
+<code>
+  <ul>
+    <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
+    <li><a href="https://simpleicons.org/">simple icons</a></li>
+    <li><a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
+    <li><a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a></li>
+  </ul>
+</code>
