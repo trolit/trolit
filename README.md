@@ -46,22 +46,15 @@ James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4
 </p>
 
 <code>
-  <h3 align="center">console.log( 'Used tools / skills ' )</h3>
+  <h3 align="left">console.log( 'Used tools / skills ' )</h3>
 </code>
 
-<p align="center">
-  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23" alt="HTML5"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23" alt="Unity 2D/3D"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23" alt="MySQL"/></kbd> <br/> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23" alt="Java"/></kbd>
+<p align="left">
+  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23" alt="HTML5"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23" alt="Unity 2D/3D"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23" alt="MySQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23" alt="Java"/></kbd>
 </p>
 
-<code>
-  <h3 align="center">console.log( 'References' )</h3>
-</code>
-
-<code>
-  <ul>
-    <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
-    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
-    <li><a href="https://simpleicons.org/">simple icons</a></li>
-    <li><a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a></li>
-  </ul>
-</code>
+<pre>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a>, <a href="https://simpleicons.org/">simple icons</a>, <a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a>
+</div>
+</pre>
