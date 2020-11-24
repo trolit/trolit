@@ -21,10 +21,11 @@
 
 <pre align="right">
 <div align="center">
-Developer that likes to invent, make and cooperate on IT solutions 
-who sometimes plays games, does some kickboxing, watches movies or 
-returns to great soundtracks from awesome composers. If you need
-any help or want to say <strong>hello</strong>, catch me on Discord:)
+Developer that likes to invent, make and cooperate on
+solutions who sometimes does some kickboxing, watches 
+movies or returns to great soundtracks from awesome 
+composers. If you need any help or want to say 
+<strong>hello</strong>, invite me on Discord:)
 
 Hans Zimmer: <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>
 Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>
@@ -34,11 +35,12 @@ Jesper Kyd & Lorne Balfe: <a href="https://youtu.be/YSdzkOhyqAk">Assassin's Cree
 Steven Price: <a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Fury</a>
 Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a>
 James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>
+Rupert Gregson-Williams: <a href="https://youtu.be/duPXV-OsfEU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Hacksaw Ridge</a>
 </div>
 </pre>
 
 <code>
-  <h3 align="center">console.log( 'Open Source' )</h3>
+  <h3 align="center">console.log( 'My projects' )</h3>
 </code>
 
 <p align="center">
@@ -46,15 +48,16 @@ James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4
 </p>
 
 <code>
-  <h3 align="left">console.log( 'Used tools / skills ' )</h3>
+  <h3 align="left">console.log( 'Among tools / skills ' )</h3>
 </code>
 
 <p align="left">
-  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="23" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="23" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="23" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="23" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="23" alt="HTML5"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="23" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="23" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="23" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="23" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="23" alt="Unity 2D/3D"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="23" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="23" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="23" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="23" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="23" alt="MySQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="23" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="23" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="23" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="23" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="23" alt="Java"/></kbd>
+  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" height="28" alt="C#"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" height="28" alt="JS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg" height="28" alt="Android"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kotlin.svg" height="28" alt="Kotlin"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" height="28" alt="HTML5"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" height="28" alt="CSS3"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" height="28" alt="JQuery"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" height="28" alt="BS"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pycharm.svg" height="28" alt="PyCharm"/></kbd>  <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/unity.svg" height="28" alt="Unity 2D/3D"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" height="28" alt="Visual Studio"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" height="28" alt="VSC"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg" height="28" alt="Intellij IDEA"/> </kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftsqlserver.svg" height="28" alt="MSSQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg" height="28" alt="MySQL"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" height="28" alt="SQLite"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" height="28" alt="GIT"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="28" alt="GitHub"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" height="28" alt="Python"/></kbd> <kbd><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" height="28" alt="Java"/></kbd>
 </p>
 
 <pre>
 <div align="center">
+<code><strong>Check awesome GitHub readme addons 😜</strong></code>
 <a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a>, <a href="https://simpleicons.org/">simple icons</a>, <a href="https://github.com/lowlighter/metrics">lowlighter's metrics</a>
 </div>
 </pre>
