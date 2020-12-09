@@ -296,8 +296,24 @@
           animation-delay: 7.640000000000003s;
         }
         
+      
+        .stdin:nth-of-type(19) {
+          animation-delay: 7.9200000000000035s;
+        }
+        .stdout:nth-of-type(20) {
+          animation-delay: 8.080000000000004s;
+        }
+        
+      
+        .stdin:nth-of-type(20) {
+          animation-delay: 8.360000000000003s;
+        }
+        .stdout:nth-of-type(21) {
+          animation-delay: 8.520000000000003s;
+        }
+        
           footer {
-            animation-delay: 7.480000000000003s;
+            animation-delay: 8.360000000000003s;
           }
         
       
@@ -320,14 +336,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Tue, 08 Dec 2020 00:36:16 GMT
+Last generated: Wed, 09 Dec 2020 00:36:42 GMT
 </div>
-<div class="stdin"><span class="ps1-path">trolit@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>pawel</b> registered=3y, uid=2919, gid=0
-  contributed to 6 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span></b>
+<div class="stdin"><span class="ps1-path">trolit@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>pawel idzikowski</b> registered=3y, uid=2919, gid=0
+  contributed to 6 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span></b>
   followed by <b>9</b> users
 </div>
 <div class="stdin"><span class="ps1-path">trolit@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1697</b> commits
+  <b> 1744</b> commits
   <b>    0</b> pull request reviewed
   <b>   15</b> pull requests opened
   <b>    1</b> issue opened
@@ -342,7 +358,7 @@ Last generated: Tue, 08 Dec 2020 00:36:16 GMT
 <div class="stdin"><span class="ps1-path">trolit@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 24 repositories - 2.30 GB
 -r--  <b>    8</b>  stargazers
 -r--  <b>    2</b>  forks
--r--  <b>   11</b>  watchers
+-r--  <b>   12</b>  watchers
 dr-x  <b>    0</b>  package
 dr-x  <b>    2</b>  gists
 dr-x         LICENSE
@@ -359,7 +375,7 @@ dr-x         LICENSE
 <b>TYPESCRIPT  </b> [#                   ] 0.36 %
 <b>HLSL        </b> [#                   ] 0.27 %
 </div>
-<footer>Connection reset by 96.119.246.190</footer></pre>
+<footer>Connection reset by 244.57.230.25</footer></pre>
 
     </div>
   </foreignObject>
