@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: trolit
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_habits: yes
