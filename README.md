@@ -21,11 +21,10 @@
 
 <pre align="right">
 <div align="center">
-Developer that likes to invent, make and cooperate on
-solutions who sometimes does some kickboxing, watches 
-movies or returns to great soundtracks from awesome 
-composers. If you need any help or want to say 
-<strong>hello</strong>, invite me on Discord:)
+Coding passionate leaving personal projects at GitHub
+who sometimes plays games or listens to the various 
+music :D If you need any help or just want to say 
+<strong>hello</strong>, meet me at Discord:)
 
 Hans Zimmer: <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>
 Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>
@@ -36,6 +35,7 @@ Steven Price: <a href="https://youtu.be/xhfo-lB6JS8?list=PLCrKXyV2OjXiChtGSzLIQ4
 Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">1917</a>
 James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>
 Rupert Gregson-Williams: <a href="https://youtu.be/duPXV-OsfEU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Hacksaw Ridge</a>
+<a href="https://youtu.be/MO-9l29RzrE">Oi šermukšnio - (Lithuanian War Song)</a>
 </div>
 </pre>
 
