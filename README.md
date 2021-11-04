@@ -19,15 +19,6 @@
 <div align="center">
 <img width="100%" src="https://www.codewars.com/users/trolit/badges/small"/>
 
-IT passionate from choice, focused on software development 
-since the end of 2017. "Music-holic", team player, war 
-drama and thrillers fan who puts help and idea sharing
-at the first spot. If you need help or want to say 
-<strong>hello</strong>(or share music), just add me at Discord :) 
-
-My long-term dream? Gather people with same attitude to 
-realize each other's ideas at GitHub.
-
 Some of my favourite tracks :}
 Hans Zimmer: <a href="https://youtu.be/sKFLpfv4hSY?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">King Arthur</a>, <a href="https://youtu.be/f2omHyq6Lrg?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Last Samurai</a>
 Trevor Jones: <a href="https://youtu.be/ygNuRpwZqRU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">The Last of the Mohicans</a>
@@ -55,7 +46,14 @@ Rupert Gregson-Williams: <a href="https://youtu.be/duPXV-OsfEU?list=PLCrKXyV2OjX
 <br/>
 
 <p align="center">
-   <kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/"><img src="https://os-expected.github.io/EzGitDoc-documentation/img/favicon.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/OS-expected/document-and-compare"><img src="https://raw.githubusercontent.com/trolit/trolit.github.io/main/content/projects/DocAndCom/tile.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/OS-expected/3vry"><img src="https://raw.githubusercontent.com/trolit/trolit.github.io/main/content/projects/3vry/tile.png" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/projectZero"><img src="https://raw.githubusercontent.com/trolit/trolit.github.io/main/content/projects/projectZero/tile.jpg" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/sShuffler"><img src="https://raw.githubusercontent.com/trolit/trolit.github.io/main/content/projects/sShuffler/tile.PNG" width="100" height="90"/></a></kbd> &nbsp; <kbd><a href="https://github.com/trolit/Wordally"><img src="https://raw.githubusercontent.com/trolit/trolit.github.io/main/content/projects/Wordally/tile.png" width="100" height="90"/></a></kbd>
+  <ul>
+    <li><kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/">EzGitDoc (tool)</a></li>
+    <li><kbd><a href="https://github.com/OS-expected/document-and-compare">Document and Compare (mobile app)</a></li>
+    <li><kbd><a href="https://github.com/trolit/3vry">3vry (mobile app)</a></li>
+    <li><kbd><a href="https://github.com/trolit/projectZero">Project Zero (3D game)</a></li>
+    <li><kbd><a href="https://github.com/trolit/sShuffler">sShuffler (tool)</a></li>
+    <li><kbd><a href="https://github.com/trolit/Wordally">Wordally (tool)</a></li>
+  </ul>
 </p>
 
 <br/>
