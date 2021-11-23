@@ -32,6 +32,8 @@ Rupert Gregson-Williams: <a href="https://youtu.be/duPXV-OsfEU?list=PLCrKXyV2OjX
 </div>
 
 <kbd>
+Personal achievements :P 
+
   <ul>
     <li><a href="https://os-expected.github.io/EzGitDoc-documentation/">EzGitDoc (tool)</a></li>
     <li><a href="https://github.com/OS-expected/document-and-compare">Document and Compare (mobile app)</a></li>
