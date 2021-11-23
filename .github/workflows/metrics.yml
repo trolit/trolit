@@ -4,7 +4,8 @@ name: GitHub metrics as SVG image
 on:
   schedule:
     - cron: "0 0 * * *"
-
+  workflow_dispatch:
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
