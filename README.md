@@ -30,31 +30,19 @@ Thomas Newman: <a href="https://youtu.be/KzmdfOh6su4?list=PLCrKXyV2OjXiChtGSzLIQ
 James Horner: <a href="https://youtu.be/JYMySrHL0Fo?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Braveheart</a>
 Rupert Gregson-Williams: <a href="https://youtu.be/duPXV-OsfEU?list=PLCrKXyV2OjXiChtGSzLIQ4RHKvlzEdjnC">Hacksaw Ridge</a>
 </div>
-</pre>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p align="center">
+<kbd>
   <ul>
-    <li><kbd><a href="https://os-expected.github.io/EzGitDoc-documentation/">EzGitDoc (tool)</a></li>
-    <li><kbd><a href="https://github.com/OS-expected/document-and-compare">Document and Compare (mobile app)</a></li>
-    <li><kbd><a href="https://github.com/trolit/3vry">3vry (mobile app)</a></li>
-    <li><kbd><a href="https://github.com/trolit/projectZero">Project Zero (3D game)</a></li>
-    <li><kbd><a href="https://github.com/trolit/sShuffler">sShuffler (tool)</a></li>
-    <li><kbd><a href="https://github.com/trolit/Wordally">Wordally (tool)</a></li>
+    <li><a href="https://os-expected.github.io/EzGitDoc-documentation/">EzGitDoc (tool)</a></li>
+    <li><a href="https://github.com/OS-expected/document-and-compare">Document and Compare (mobile app)</a></li>
+    <li><a href="https://github.com/trolit/3vry">3vry (mobile app)</a></li>
+    <li><a href="https://github.com/trolit/projectZero">Project Zero (3D game)</a></li>
+    <li><a href="https://github.com/trolit/sShuffler">sShuffler (tool)</a></li>
+    <li><a href="https://github.com/trolit/Wordally">Wordally (tool)</a></li>
   </ul>
-</p>
+</kbd>
+
+</pre>
 
 <br/>
 
