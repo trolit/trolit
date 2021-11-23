@@ -44,17 +44,12 @@ Personal achievements :P
   </ul>
 </kbd>
 
-</pre>
-
-<br/>
-
-<pre>
-  <kbd>
-    <code><strong>Awesome GitHub readme addons 😜</strong></code>
-    <ul>
-      <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
-      <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
-      <li><a href="https://simpleicons.org/">simple icons</a></li>
-      <li><a href="https://github.com/lowlighter/metrics">Simon Lecoq metrics</a></li>
-    </ul></kbd>
+<kbd>
+  <code><strong>Awesome GitHub readme addons 😜</strong></code>
+  <ul>
+    <li><a href="https://github.com/ryo-ma/github-profile-trophy">github profile trophy</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">github readme streak stats</a></li>
+    <li><a href="https://simpleicons.org/">simple icons</a></li>
+    <li><a href="https://github.com/lowlighter/metrics">Simon Lecoq metrics</a></li>
+  </ul></kbd>
 </pre>
